@@ -1,9 +1,10 @@
 # blankenhorn
 
-The primary fault line dividing the two groups will not be race, religion, class, education, or gender. 
-It will be patrimony. One group will consist of those adults who grew up with the daily presence and provision 
-of fathers. The other group will consist of those who did not. By the early years of the next century, these 
-two groups will be roughly the same size. 
+The primary fault line dividing the two groups will not be race, religion, <BR>
+class, education, or gender. It will be patrimony. One group will consist <BR>
+of those adults who grew up with the daily presence and provision of fathers. <BR>
+The other group will consist of those who did not. By the early years of the <BR>
+next century, these two groups will be roughly the same size. <BR>
 
 Surely a crisis of this scale merits a response. At a minimum, it requires a serious debate. Why is fatherhood 
 declming? What can be done about it? Can our society find ways to invigorate effective fatherhood as a norm 
